@@ -137,7 +137,7 @@ A subscription owner, or anyone with appropriate [RBAC (Roles Based Access Contr
 
 1. Sign in to the Azure portal at https://portal.azure.com. 
 2. Go to [**Cost Management + Billing > Cost Management > Cost analysis**](https://ms.portal.azure.com/#view/Microsoft_Azure_CostManagement/Menu/~/costanalysis). 
-3. For the filter near the top, select **Service name: Microsoft Graph Servies**. 
+3. For the filter near the top, select **Service name: Microsoft Graph Services**. 
 4. For the **Group by** dropdown menu near the right, select **Meter**. 
 
 This view offers a convenient way to observe API consumption per day over a period of time. 
